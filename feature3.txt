@@ -1,2 +1,1 @@
-this is a feature file from develop branch
-new
+this is testconflict file
