@@ -1,1 +1,1 @@
-this is testconflict file
+new file added
